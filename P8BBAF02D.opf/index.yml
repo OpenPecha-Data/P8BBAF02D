@@ -1,0 +1,100 @@
+id: 0dacc15c519f431f96bd3f1dfd0f2c01
+annotation_type: index
+revision: '00001'
+annotations:
+  86720a6a8c8d4d8fae17777973bdae87:
+    work_id: W794AB739
+    span:
+      vol: 'Chapter 10: Mārgaāvatārastavaḥ'
+      start: 0
+      end: 1627
+  b685b281e99b49c98a293a68cd7a6e5e:
+    work_id: W07250C59
+    span:
+      vol: 'Chapter 11: Duṣkarastavaḥ'
+      start: 0
+      end: 1635
+  8f7472f3d7df4011a8274b6663b6e9c1:
+    work_id: WEF2E9EB8
+    span:
+      vol: 'Chapter 12: Kauśalastavaḥ'
+      start: 0
+      end: 1605
+  303ae211b9904fd187ab76f8decb98c1:
+    work_id: W4C59C1EC
+    span:
+      vol: 'Chapter 13: Ānṛṇyastavaḥ'
+      start: 0
+      end: 2847
+  6cabca581bd14367861a3964fad932f4:
+    work_id: WC8218544
+    span:
+      vol: 'Chapter 1: Upodghātaḥ'
+      start: 0
+      end: 1291
+  70b3008e4a304d4990b8e70e8297344d:
+    work_id: W8DA28800
+    span:
+      vol: 'Chapter 2: Hetustavaḥ'
+      start: 0
+      end: 2521
+  445b37034db7446abe3584b56d2a341d:
+    work_id: W8CB618C8
+    span:
+      vol: 'Chapter 3: Nirupamastavaḥ'
+      start: 0
+      end: 2178
+  860301ecff20444e9ac34a613998dbb4:
+    work_id: W17803942
+    span:
+      vol: 'Chapter 4: Adbhutastavaḥ'
+      start: 0
+      end: 1460
+  2ae187786e4d4ea8ba3f46646970a0ab:
+    work_id: W630604C9
+    span:
+      vol: 'Chapter 5: Rūpastavaḥ'
+      start: 0
+      end: 883
+  e9fe0369a3234242ac829145266b7be3:
+    work_id: W773731BC
+    span:
+      vol: 'Chapter 6: Karuṇāstavaḥ'
+      start: 0
+      end: 1339
+  72da8aca27ed42288a6877d3d8498184:
+    work_id: WFE34ADD8
+    span:
+      vol: 'Chapter 7: Vacanastavaḥ'
+      start: 0
+      end: 2170
+  280df721d80e4261bb417b4b4ceff5c8:
+    work_id: W13F8F1E5
+    span:
+      vol: 'Chapter 8: Śāsanastavaḥ'
+      start: 0
+      end: 1476
+  d0906ca0d19f4f8fa62713db9b3f31e4:
+    work_id: W2974B49E
+    span:
+      vol: 'Chapter 9: Praṇidhistavaḥ'
+      start: 0
+      end: 1558
+  da420e4442354b47a85dcf206f5b1cf4:
+    work_id: WEA93ACCA
+    span:
+      vol: Colophon
+      start: 0
+      end: 236
+  6a5e36a3c1f9416eab7392fe6c1901a6:
+    work_id: W3215AE29
+    span:
+      vol: Preface
+      start: 0
+      end: 40
+  75e445d2258549e48b6898ddfe6b10e6:
+    work_id: W00E6EDD8
+    span:
+      vol: Title
+      start: 0
+      end: 132

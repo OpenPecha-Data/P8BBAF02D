@@ -1,0 +1,73 @@
+id: P8BBAF02D
+initial_creation_type: input
+source_metadata:
+  title: 'Mātṛceṭa: Śatapañcāśatka'
+  language: bo
+  volumes:
+    83bfd47add0b454f9cfe95ed30b1c134:
+      title: 'Chapter 10: Mārgaāvatārastavaḥ'
+      base_file: 'Chapter 10: Mārgaāvatārastavaḥ.txt'
+      work_id: W794AB739
+    376af6dbb2f24fd69a61ab1a711a107a:
+      title: 'Chapter 11: Duṣkarastavaḥ'
+      base_file: 'Chapter 11: Duṣkarastavaḥ.txt'
+      work_id: W07250C59
+    cbb3b68ccfaf4432b5aed461f06c4f32:
+      title: 'Chapter 12: Kauśalastavaḥ'
+      base_file: 'Chapter 12: Kauśalastavaḥ.txt'
+      work_id: WEF2E9EB8
+    5fed93d840e042ae82c0c56b89d729b7:
+      title: 'Chapter 13: Ānṛṇyastavaḥ'
+      base_file: 'Chapter 13: Ānṛṇyastavaḥ.txt'
+      work_id: W4C59C1EC
+    fa9cc6eb2a1545e7ae9732e9a4cf8208:
+      title: 'Chapter 1: Upodghātaḥ'
+      base_file: 'Chapter 1: Upodghātaḥ.txt'
+      work_id: WC8218544
+    c6a5672e04eb4723ac3a0953868eaad7:
+      title: 'Chapter 2: Hetustavaḥ'
+      base_file: 'Chapter 2: Hetustavaḥ.txt'
+      work_id: W8DA28800
+    61a4e3317d66417ca682ba742a8570a9:
+      title: 'Chapter 3: Nirupamastavaḥ'
+      base_file: 'Chapter 3: Nirupamastavaḥ.txt'
+      work_id: W8CB618C8
+    a435b9bddfe7472d877ace508672501e:
+      title: 'Chapter 4: Adbhutastavaḥ'
+      base_file: 'Chapter 4: Adbhutastavaḥ.txt'
+      work_id: W17803942
+    7ca9692d454a465d8a5d5f3bffd9bd7f:
+      title: 'Chapter 5: Rūpastavaḥ'
+      base_file: 'Chapter 5: Rūpastavaḥ.txt'
+      work_id: W630604C9
+    40d7d2fefe7f458db5e4a23b28626500:
+      title: 'Chapter 6: Karuṇāstavaḥ'
+      base_file: 'Chapter 6: Karuṇāstavaḥ.txt'
+      work_id: W773731BC
+    fe57e787c5294bf3ad180bc65000c47f:
+      title: 'Chapter 7: Vacanastavaḥ'
+      base_file: 'Chapter 7: Vacanastavaḥ.txt'
+      work_id: WFE34ADD8
+    26734a24ab294726ae580c2676d46488:
+      title: 'Chapter 8: Śāsanastavaḥ'
+      base_file: 'Chapter 8: Śāsanastavaḥ.txt'
+      work_id: W13F8F1E5
+    33340fead11a4ffe8476690fccf58537:
+      title: 'Chapter 9: Praṇidhistavaḥ'
+      base_file: 'Chapter 9: Praṇidhistavaḥ.txt'
+      work_id: W2974B49E
+    b17eff123fd54c309918b1fa379939dc:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WEA93ACCA
+    ffe5549788724f9ead22dc3bca9992dd:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W3215AE29
+    3b10ac02eebd4e15878e54732835a297:
+      title: Title
+      base_file: Title.txt
+      work_id: W00E6EDD8
+  chapter_to_tile: {}
+created_at: '2022-03-01T23:38:32.273283'
+last_modified_at: '2022-03-01T23:38:32.273295'
